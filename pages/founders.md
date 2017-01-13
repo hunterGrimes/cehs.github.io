@@ -22,6 +22,9 @@ Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also lea
 ## Hajmil Carr
 
 
+## Hunter Grimes
+
+
 ## William Jordan
 William is a freshman who's only been coding for a couple of months. His favorite place to code is [JSFiddle](https://jsfiddle.net/SinBADCEHS/kx7f6e66/6/).
 
